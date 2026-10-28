@@ -1,6 +1,6 @@
 # Atividades_DML_UPDATE
 
-Instrução 1 
+### Instrução 1 
 ```SQL
 /* USE vendas_informatica;
 
@@ -12,7 +12,7 @@ Esse código não  pode ser exuctado por que na criação da tabela não permite
 */
 ```
 
-/* Instrução 2 */
+### Instrução 2
 ```SQL
 USE vendas_informatica; 
 
@@ -21,7 +21,7 @@ SET data_cadastro = "2026-01-01"
 WHERE cidade = "Manaus";
 ```
 
-/* Instrução 3 */
+### Instrução 3
 ```SQL
 USE vendas_informatica; 
 
@@ -30,7 +30,7 @@ SET nome_cliente = 'Michael Jackson'
 WHERE id_cliente  = 10;
 ```
 
-/* Instrução 4 */
+### Instrução 4
 ```SQL
 USE vendas_informatica;
 
@@ -39,7 +39,7 @@ SET nome_produto = 'Notebook Lenovo IdeaPAD 7'
 WHERE id_produto  = 1;
 ```
 
-/* Instrução 5 */
+### Instrução 5
 ```SQL
 USE vendas_informatica;
 
@@ -49,7 +49,7 @@ WHERE marca = 'DELL'
 AND categoria = 'Notebook';
 ```
 
-/* Instrução 6 */
+### Instrução 6
 ```SQL
 USE vendas_informatica;
 
