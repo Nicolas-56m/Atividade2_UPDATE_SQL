@@ -2,12 +2,13 @@
 
 ### Instrução 1 
 ```SQL
-/* USE vendas_informatica;
+USE vendas_informatica;
 
 UPDATE cliente
 SET email = "email@gmail.com.br"
 WHERE estado IN ("SP", "RJ");
 
+/*
 Esse código não  pode ser exuctado por que na criação da tabela não permite que os email sejam iguais.
 */
 ```
